@@ -11,3 +11,29 @@
    │    └─ Typescript
    └─Runner.exe
    ```
+[pypi-image]: https://badge.fury.io/py/torch-geometric.svg
+[pypi-url]: https://pypi.python.org/pypi/torch-geometric
+[testing-image]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/testing.yml/badge.svg
+[testing-url]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/testing.yml
+[linting-image]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/linting.yml/badge.svg
+[linting-url]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/linting.yml
+[docs-image]: https://readthedocs.org/projects/pytorch-geometric/badge/?version=latest
+[docs-url]: https://pytorch-geometric.readthedocs.io/en/latest/?badge=latest
+[coverage-image]: https://codecov.io/gh/pyg-team/pytorch_geometric/branch/master/graph/badge.svg
+[coverage-url]: https://codecov.io/github/pyg-team/pytorch_geometric?branch=master
+[contributing-image]: https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat
+[contributing-url]: https://github.com/pyg-team/pytorch_geometric/blob/master/CONTRIBUTING.md
+[slack-image]: https://img.shields.io/badge/slack-pyg-brightgreen
+[slack-url]: https://data.pyg.org/slack.html
+
+<br />
+<br />
+
+
+[![PyPI Version][pypi-image]][pypi-url]
+[![Testing Status][testing-image]][testing-url]
+[![Linting Status][linting-image]][linting-url]
+[![Docs Status][docs-image]][docs-url]
+[![Contributing][contributing-image]][contributing-url]
+[![Slack][slack-image]][slack-url]
+<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> 
