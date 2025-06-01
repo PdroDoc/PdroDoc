@@ -1,4 +1,6 @@
   ```
+Pedro P.
+   │ 
    ├─ Lawyer 
    │   ├─ TechLaw.py
    │   └─ Writer.md
@@ -11,6 +13,13 @@
    │    └─ Typescript
    └─Runner.exe
    ```
+
+ </p>
+                <blockquote class="border-l-4 border-blue-400 pl-6 ml-2 text-lg text-green-700 italic leading-relaxed">
+    “When the mind is still, the truth has a chance to rise.”
+    <br><span class="block mt-2 text-sm text-gray-500">— Lao Tzu</span>
+</blockquote>
+
 [pypi-image]: https://badge.fury.io/py/torch-geometric.svg
 [pypi-url]: https://pypi.python.org/pypi/torch-geometric
 [testing-image]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/testing.yml/badge.svg
