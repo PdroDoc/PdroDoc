@@ -4,6 +4,7 @@ Pedro P.
    ├─ Lawyer 
    │   ├─ TechLaw.py
    │   └─ Writer.md
+   │   └─ Data Science for Lawyers 
    ├─ contributing.md
    ├─ Legal Automation
    │
