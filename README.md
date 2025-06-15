@@ -1,10 +1,27 @@
+
+[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
+https://numfocus.org)
+[![PyPI Downloads](https://img.shields.io/pypi/dm/numpy.svg?label=PyPI%20downloads)](
+https://pypi.org/project/numpy/)
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/numpy.svg?label=Conda%20downloads)](
+https://anaconda.org/conda-forge/numpy)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-Ask%20questions-blue.svg)](
+https://stackoverflow.com/questions/tagged/numpy)
+[![Nature Paper](https://img.shields.io/badge/DOI-10.1038%2Fs41586--020--2649--2-blue)](
+https://doi.org/10.1038/s41586-020-2649-2)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://securityscorecards.dev/viewer/?uri=github.com/numpy/numpy)
+[![Typing](https://img.shields.io/pypi/types/numpy)](https://pypi.org/project/numpy/)  
+
   ```
-Pedro P.
+Pedro P.tz
    │ 
    ├─ Lawyer 
    │   ├─ TechLaw.py
    │   └─ Writer.md
-   │   └─ Data Science for Lawyers 
+   │   └─ Data Science for Lawyers
+   │              ├─Numpy
+   │              ├─Mathplotlib
+   │              └─ Pandas 
    ├─ contributing.md
    ├─ Legal Automation
    │
@@ -13,6 +30,7 @@ Pedro P.
    │    ├──Python.py
    │    └─ Typescript
    └─Runner.exe
+         └─Garmin Forerunner
    ```
 
  </p>
@@ -21,7 +39,12 @@ Pedro P.
     <br><span class="block mt-2 text-sm text-gray-500">— Lao Tzu</span>
 </blockquote>
 
+
+
+
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> 
+
+
 
 [pypi-image]: https://badge.fury.io/py/torch-geometric.svg
 [pypi-url]: https://pypi.python.org/pypi/torch-geometric
@@ -38,9 +61,9 @@ Pedro P.
 [slack-image]: https://img.shields.io/badge/slack-pyg-brightgreen
 [slack-url]: https://data.pyg.org/slack.html
 
-<br />
-<br />
 
+<br />
+<br />
 
 [![PyPI Version][pypi-image]][pypi-url]
 [![Testing Status][testing-image]][testing-url]
@@ -48,4 +71,6 @@ Pedro P.
 [![Docs Status][docs-image]][docs-url]
 [![Contributing][contributing-image]][contributing-url]
 [![Slack][slack-image]][slack-url]
+
+
 
