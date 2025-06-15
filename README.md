@@ -1,18 +1,6 @@
-
-[![Powered by NumFOCUS](https://img.shields.io/badge/powered%20by-NumFOCUS-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](
-https://numfocus.org)
-[![PyPI Downloads](https://img.shields.io/pypi/dm/numpy.svg?label=PyPI%20downloads)](
-https://pypi.org/project/numpy/)
-[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/numpy.svg?label=Conda%20downloads)](
-https://anaconda.org/conda-forge/numpy)
-[![Stack Overflow](https://img.shields.io/badge/stackoverflow-Ask%20questions-blue.svg)](
-https://stackoverflow.com/questions/tagged/numpy)
-[![Nature Paper](https://img.shields.io/badge/DOI-10.1038%2Fs41586--020--2649--2-blue)](
-https://doi.org/10.1038/s41586-020-2649-2)
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://securityscorecards.dev/viewer/?uri=github.com/numpy/numpy)
-[![Typing](https://img.shields.io/pypi/types/numpy)](https://pypi.org/project/numpy/)  
-
+![dev Lawyer](https://img.shields.io/badge/Pedro%20Potz-Dev__Lawyer-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)
   ```
+
 Pedro P.tz
    │ 
    ├─ Lawyer 
@@ -32,6 +20,17 @@ Pedro P.tz
    └─Runner.exe
          └─Garmin Forerunner
    ```
+
+[![PyPI Downloads](https://img.shields.io/pypi/dm/numpy.svg?label=PyPI%20downloads)](
+https://pypi.org/project/numpy/)
+[![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/numpy.svg?label=Conda%20downloads)](
+https://anaconda.org/conda-forge/numpy)
+[![Stack Overflow](https://img.shields.io/badge/stackoverflow-Ask%20questions-blue.svg)](
+https://stackoverflow.com/questions/tagged/numpy)
+[![Nature Paper](https://img.shields.io/badge/DOI-10.1038%2Fs41586--020--2649--2-blue)](
+https://doi.org/10.1038/s41586-020-2649-2)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/numpy/numpy/badge)](https://securityscorecards.dev/viewer/?uri=github.com/numpy/numpy)
+[![Typing](https://img.shields.io/pypi/types/numpy)](https://pypi.org/project/numpy/)  
 
  </p>
                 <blockquote class="border-l-4 border-blue-400 pl-6 ml-2 text-lg text-green-700 italic leading-relaxed">
