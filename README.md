@@ -22,7 +22,7 @@ Pedro P.
 </blockquote>
 
 <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> 
-
+<iframe src="https://lottie.host/embed/79376eb1-a1b3-4f79-99dd-a3244f692715/PAZFF91K5y.lottie"></iframe>
 [pypi-image]: https://badge.fury.io/py/torch-geometric.svg
 [pypi-url]: https://pypi.python.org/pypi/torch-geometric
 [testing-image]: https://github.com/pyg-team/pytorch_geometric/actions/workflows/testing.yml/badge.svg
