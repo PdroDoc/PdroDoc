@@ -1,7 +1,7 @@
 ![dev Lawyer](https://img.shields.io/badge/Pedro%20Potz-Dev__Lawyer-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)
   ```
 
-Pedro P.tz
+Pedro Potz
    │ 
    ├─ Lawyer 
    │   ├─ TechLaw.py
