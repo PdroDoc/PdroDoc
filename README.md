@@ -1,25 +1,99 @@
+
+
+
 ![dev Lawyer](https://img.shields.io/badge/Pedro%20Potz-Dev__Lawyer-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)
   ```
-
+────────────────────────────────────────────────────────────
+🎍 A Pythonic Lawyer 🐍
+────────────────────────────────────────────────────────────
 Pedro Potz
-   │ 
-   ├─ Lawyer 
-   │   ├─ TechLaw.py
-   │   └─ Writer.md
-   │   └─ Data Science for Lawyers
-   │              ├─Numpy
-   │              ├─Mathplotlib
-   │              └─ Pandas 
-   ├─ contributing.md
-   ├─ Legal Automation
-   │
-   │─ Language.txt
-   │    ├─ JavaScript
-   │    ├──Python.py
-   │    └─ Typescript
-   └─Runner.exe
-         └─Garmin Forerunner
-   ```
+  │ 
+  ├─ Lawyer 
+  │   ├─ TechLaw.py
+  │   └─ Writer.md
+  │   └─ Data Science for Lawyers
+  │
+PYTHON
+  │
+  │
+  ├── APIs 
+  │     ├── Data Science 📊
+  │     ├── AI 
+  │     ├── Flask  
+  │     ├── Fastapi
+  │     └── Debugging & Assertions
+  │
+  ├── Data Wrangling
+  │     ├── RestApi
+  │     ├── Large Scale Automation
+  │     └── RegEx Matching
+  │
+  ├── Zen Coding  (Let it Happens)
+  │
+  └── Pytorch
+        ├── Deep Learning
+        ├── 
+        ├── Natural Language
+        └── Building 
+               │
+               └── Clustering
+────────────────────────────────────────────────────────────
+
+DATA SCIENCE
+  │
+  ├── numpy
+  ├── pandas
+  ├── matplotlib
+  ├── seaborn
+  └── scikit-learn
+        │
+        └── ML Concepts
+               ├── regression
+               ├── classification
+               └── clustering
+
+────────────────────────────────────────────────────────────
+
+WEB & APP
+  │
+  ├── Frontend
+  │     └── Next.js
+  │
+  ├── Backend
+  │     └── FastAPI
+  │
+  └── Data Apps
+        └── streamlit
+
+────────────────────────────────────────────────────────────
+
+AI / MACHINE LEARNING
+  │
+  ├── Concepts
+  │     ├── supervised
+  │     ├── unsupervised
+  │     └── reinforcement
+  │
+  ├── Tools
+  │     ├── huggingface
+  │     ├── langchain
+  │     └── openai
+  │
+  └── Deployment
+        └── docker
+
+────────────────────────────────────────────────────────────
+
+🧭 MINDFULNESS 
+  │
+  ├── Awareness
+  ├── Choiceless observation
+  └── Presence in learning / Working
+
+────────────────────────────────────────────────────────────
+````
+
+
 
 [![Stack Overflow](https://img.shields.io/badge/stackoverflow-Ask%20questions-blue.svg)](
 https://stackoverflow.com/questions/tagged/numpy)
@@ -68,4 +142,11 @@ https://doi.org/10.1038/s41586-020-2649-2)
 [![Slack][slack-image]][slack-url]
 
 
+
+
+</p>
+                <blockquote class="border-l-4 border-blue-400 pl-6 ml-2 text-lg text-green-700 italic leading-relaxed">
+    “Be Aware. Dont Slip - For Miau 🐈"
+    <br><span class="block mt-2 text-sm text-gray-500">— Pedro Potz</span>
+</blockquote>
 
