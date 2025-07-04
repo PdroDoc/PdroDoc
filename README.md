@@ -111,7 +111,6 @@ https://doi.org/10.1038/s41586-020-2649-2)
 
 
 
-<img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/node-dot-js.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" /> <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vim.svg" /> 
 
 
 
