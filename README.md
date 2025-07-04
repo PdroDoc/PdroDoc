@@ -91,7 +91,7 @@ AI / MACHINE LEARNING
   └── Presence in learning / Working
 
 ────────────────────────────────────────────────────────────
-````
+```
 
 
 
@@ -147,6 +147,6 @@ https://doi.org/10.1038/s41586-020-2649-2)
 </p>
                 <blockquote class="border-l-4 border-blue-400 pl-6 ml-2 text-lg text-green-700 italic leading-relaxed">
     “Be Aware. Dont Slip - For Miau 🐈"
-    <br><span class="block mt-2 text-sm text-gray-500">— Pedro Potz</span>
+    <br><span class="block mt-2 text-sm text-gray-500">— Pedro P.</span>
 </blockquote>
 
