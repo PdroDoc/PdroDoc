@@ -1,12 +1,12 @@
 
 
 
-![dev Lawyer](https://img.shields.io/badge/Pedro%20Potz-Dev__Lawyer-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)
+![dev Lawyer](https://img.shields.io/badge/Pedro%20P-Dev__Lawyer-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)
   ```
 ────────────────────────────────────────────────────────────
 🎍 A Pythonic Lawyer 🐍
 ────────────────────────────────────────────────────────────
-Pdro Ptz
+Pdro P.
   │ 
   ├─ Lawyer 
   │   ├─ TechLaw.py
