@@ -6,7 +6,7 @@
 ────────────────────────────────────────────────────────────
 🎍 A Pythonic Lawyer 🐍
 ────────────────────────────────────────────────────────────
-Pdro P.
+Pedro Potz.
   │ 
   ├─ Lawyer 
   │   ├─ TechLaw.py
@@ -28,11 +28,11 @@ PYTHON
   │     ├── Large Scale Automation
   │     └── RegEx Matching
   │
-  ├── Zen Coding  (Let it Happens)
+  ├── Zen Coding \ Zen Living  (Let it Happens)
   │
   └── Pytorch
         ├── Deep Learning
-        ├── 
+        ├── OP
         ├── Natural Language
         └── Building 
                │
@@ -54,19 +54,6 @@ DATA SCIENCE
 
 ────────────────────────────────────────────────────────────
 
-WEB & APP
-  │
-  ├── Frontend
-  │     └── Next.js
-  │
-  ├── Backend
-  │     └── FastAPI
-  │
-  └── Data Apps
-        └── streamlit
-
-────────────────────────────────────────────────────────────
-
 AI / MACHINE LEARNING
   │
   ├── Concepts
@@ -75,22 +62,15 @@ AI / MACHINE LEARNING
   │     └── reinforcement
   │
   ├── Tools
-  │     ├── huggingface
+  │     ├── Pytorch
   │     ├── langchain
   │     └── openai
   │
-  └── Deployment
-        └── docker
+  └── Scikit-learn 
+        └── Deep-learning
 
 ────────────────────────────────────────────────────────────
 
-🧭 MINDFULNESS 
-  │
-  ├── Awareness
-  ├── Choiceless observation
-  └── Presence in learning / Working
-
-────────────────────────────────────────────────────────────
 ```
 
 
@@ -140,12 +120,18 @@ https://doi.org/10.1038/s41586-020-2649-2)
 [![Contributing][contributing-image]][contributing-url]
 [![Slack][slack-image]][slack-url]
 
-
+<p align="center">
+  <sub><i>
+    Desenvolvido por <a href="https://pedrop.vercel.app">Pedro Potz</a><br>
+    Advogado especializado em soluções jurídico-tecnológicas<br>
+    🦄 <em>Advogado que programa é unicórnio!</em>
+  </i></sub>
+</p>
 
 
 </p>
                 <blockquote class="border-l-4 border-blue-400 pl-6 ml-2 text-lg text-green-700 italic leading-relaxed">
-    “Be Aware. Dont Slip - For Miau 🐈"
-    <br><span class="block mt-2 text-sm text-gray-500">— Pedro P.</span>
+    “Be Aware. Dont Slip - 🐈"
+    <br><span class="block mt-2 text-sm text-gray-500">— For Miau.</span>
 </blockquote>
 
