@@ -122,7 +122,7 @@ https://doi.org/10.1038/s41586-020-2649-2)
 
 <p align="center">
   <sub><i>
-    Desenvolvido por <a href="https://pedrop.vercel.app">Pedro Potz</a><br>
+    Desenvolvido por <a href="https://pedrop.vercel.app">Pedro Medeiros</a><br>
     Advogado especializado em soluções jurídico-tecnológicas<br>
     🦄 <em>Advogado que programa é unicórnio!</em>
   </i></sub>
